@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PokeStop
+comment1.params=pos\ imageEXT\ lureTimer
+comment1.target=PokeStop(Position,\ java.lang.String,\ int)
+numComments=2

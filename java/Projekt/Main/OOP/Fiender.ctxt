@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Fiender
+comment1.params=fiendeHPMax\ fiendeAttackMax\ chansAttBlockaMax\ namn
+comment1.target=Fiender(int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ attack()
+comment3.params=
+comment3.target=int\ getHP()
+comment4.params=skada
+comment4.target=void\ taSkada(int)
+comment5.params=
+comment5.target=void\ chansAttBlocka()
+comment6.params=
+comment6.target=java.lang.String\ namn()
+numComments=7

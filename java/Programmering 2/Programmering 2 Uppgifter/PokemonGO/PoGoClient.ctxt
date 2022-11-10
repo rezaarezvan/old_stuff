@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PoGoClient
+comment1.params=me\ pokeDexL\ pokemonL\ itemL\ settingsExt\ pos\ map\ shop
+comment1.target=PoGoClient(PlayerInfo,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ java.lang.String,\ Position,\ Map,\ java.lang.String)
+numComments=2

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Skola
+comment1.params=n
+comment1.target=Skola(java.lang.String)
+comment2.params=l
+comment2.target=java.lang.String\ printL\u00E4rare(java.util.ArrayList)
+comment3.params=k
+comment3.target=java.lang.String\ printKlasser(java.util.ArrayList)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=l
+comment5.target=void\ setKlassLista(Klass)
+comment6.params=l
+comment6.target=void\ setL\u00E4rarLista(L\u00E4rare)
+numComments=7

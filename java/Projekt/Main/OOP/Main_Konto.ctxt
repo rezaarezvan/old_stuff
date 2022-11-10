@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Main_Konto
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=personIndex\ kontoIndex
+comment10.target=void\ loggaInKonto(int,\ int)
+comment2.params=
+comment2.target=void\ personMeny()
+comment3.params=personIndex
+comment3.target=void\ kontoMeny(int)
+comment4.params=personIndex\ kontoIndex
+comment4.target=void\ valMeny(int,\ int)
+comment5.params=
+comment5.target=void\ h\u00E4mtaAllt()
+comment6.params=
+comment6.target=void\ sparaAllt()
+comment7.params=personIndex
+comment7.target=void\ loggaInPerson(int)
+comment8.params=
+comment8.target=void\ skapaAnv\u00E4ndare()
+comment9.params=personIndex\ kontoIndex
+comment9.target=void\ skapaKonto(int,\ int)
+numComments=11

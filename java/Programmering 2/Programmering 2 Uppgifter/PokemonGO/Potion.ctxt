@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Potion
+comment1.params=name\ visual\ healPercent
+comment1.target=Potion(java.lang.String,\ VisualRepresentation,\ int)
+numComments=2

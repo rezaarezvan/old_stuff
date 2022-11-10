@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Gym
+comment1.params=pos\ imageEXT\ team\ defendersL\ prestige
+comment1.target=Gym(Position,\ java.lang.String,\ java.lang.String,\ java.util.ArrayList,\ int)
+numComments=2

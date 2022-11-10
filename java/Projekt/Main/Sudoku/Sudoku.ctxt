@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Sudoku
+comment1.params=rutn\u00E4t
+comment1.target=Sudoku(int[][])
+comment2.params=rad\ nummer
+comment2.target=boolean\ \u00E4rIRad(int,\ int)
+comment3.params=col\ nummer
+comment3.target=boolean\ \u00E4rICol(int,\ int)
+comment4.params=rad\ col\ nummer
+comment4.target=boolean\ \u00E4rIL\u00E5da(int,\ int,\ int)
+comment5.params=rad\ col\ nummer
+comment5.target=boolean\ \u00E4rOk(int,\ int,\ int)
+comment6.params=
+comment6.target=boolean\ BT()
+comment7.params=
+comment7.target=void\ visa()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

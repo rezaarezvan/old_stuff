@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MainKonto
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=inreMeny\ mellanMeny\ konto
+comment2.target=void\ menyMetod(int,\ int,\ Konto[])
+numComments=3

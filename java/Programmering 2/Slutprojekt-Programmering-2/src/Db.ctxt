@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Db
+comment1.params=
+comment1.target=Db()
+comment1.text=\r\n\ Constructor\ for\ db\ class.\r\n
+comment2.params=values\ columns\ table
+comment2.target=void\ insert(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\r\n\ @param\ values\ String\ with\ values\ to\ insert\ into\ db.\ must\ follow\ form\:\ ('value1,\ value2,\ value3...')\r\n\ @param\ columns\ String\ with\ colums\ which\ to\ insert\ values\ into\ db.\ must\ follow\ form\:\ ('column1,\ column2,\ column3...')\r\n\ @param\ table\ String\ of\ which\ table\ to\ insert\ values\ into.\r\n
+comment3.params=attrbt\ table
+comment3.target=java.lang.String\ read(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\r\n\ @param\ attrbt\ String\ of\ columns\ to\ read\ from.\r\n\ @param\ table\ String\ with\ table\ to\ read\ from.\r\n\ @return\ Returns\ requested\ rows.\r\n
+comment4.params=attrbt\ table
+comment4.target=User\ update(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\r\n\ @param\ attrbt\r\n\ @param\ table\r\n\ @return\r\n
+comment5.params=attrbt\ table
+comment5.target=void\ delete(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\r\n\ @param\ attrbt\r\n\ @param\ table\r\n
+numComments=6

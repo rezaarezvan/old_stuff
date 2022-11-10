@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Position
+comment1.params=latitude\ longitude
+comment1.target=Position(double,\ double)
+numComments=2

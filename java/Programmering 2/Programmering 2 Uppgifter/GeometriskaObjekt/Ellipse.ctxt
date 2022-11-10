@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ellipse
+comment1.params=x\ y\ rX\ rY
+comment1.target=Ellipse(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=double\ area()
+comment3.params=
+comment3.target=double\ omkrets()
+comment4.params=
+comment4.target=double\ getRadieX()
+comment5.params=
+comment5.target=double\ getRadieY()
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+numComments=7

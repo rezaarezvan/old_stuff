@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Map
+comment1.params=imgExt\ portal\ pokemonL
+comment1.target=Map(java.lang.String,\ Portal,\ java.util.ArrayList)
+numComments=2

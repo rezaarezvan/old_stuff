@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Minir\u00E4knare
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=val\ tal1\ tal2\ summa
+comment2.target=void\ addition(int,\ int,\ int,\ int)
+comment3.params=val\ tal1\ tal2\ summa
+comment3.target=void\ subtraktion(int,\ int,\ int,\ int)
+comment4.params=val\ tal1\ tal2\ summa
+comment4.target=void\ multiplikation(int,\ int,\ int,\ int)
+comment5.params=val\ tal1\ tal2\ summa
+comment5.target=void\ division(int,\ int,\ int,\ int)
+comment6.params=val\ tal1\ tal2\ summa
+comment6.target=void\ modulo(int,\ int,\ int,\ int)
+numComments=7

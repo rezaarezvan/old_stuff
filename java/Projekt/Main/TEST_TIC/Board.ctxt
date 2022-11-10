@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=boolean\ isGameOver()
+comment2.params=player
+comment2.target=boolean\ hasPlayerWon(int)
+comment3.params=
+comment3.target=java.util.List\ getAvailableCells()
+comment4.params=point\ player
+comment4.target=boolean\ placeAMove(Point,\ int)
+comment5.params=
+comment5.target=void\ displayBoard()
+comment6.params=depth\ turn
+comment6.target=int\ minimax(int,\ int)
+numComments=7

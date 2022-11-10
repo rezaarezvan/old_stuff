@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Skola
+comment1.params=textFromFile
+comment1.target=Skola(java.lang.String)
+comment2.params=l
+comment2.target=java.lang.String\ printL\u00E4rare(java.util.ArrayList)
+comment3.params=k
+comment3.target=java.lang.String\ printKlasser(java.util.ArrayList)
+comment4.params=l
+comment4.target=java.lang.String\ printToFileL\u00E4rare(java.util.ArrayList)
+comment5.params=k
+comment5.target=java.lang.String\ printToFileKlasser(java.util.ArrayList)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=java.lang.String\ toFileString()
+comment8.params=l
+comment8.target=void\ setKlassLista(Klass)
+comment9.params=l
+comment9.target=void\ setL\u00E4rarLista(L\u00E4rare)
+numComments=10

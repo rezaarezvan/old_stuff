@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Pokemon
+comment1.params=ivAtk\ ivDef\ ivHp\ cp\ hp\ level\ owner\ pos\ nr\ visual\ baseAtk\ baseDef\ baseHp
+comment1.target=Pokemon(int,\ int,\ int,\ int,\ int,\ int,\ PlayerInfo,\ Position,\ int,\ VisualRepresentation,\ int,\ int,\ int)
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HiLo
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=max
+comment2.target=int\ while_slinga(int)
+comment3.params=forts\u00E4tta\ omg\u00E5ngar\ medelTid\ medelGissning
+comment3.target=void\ avsluta_metod(java.lang.String,\ int,\ long,\ int)
+comment4.params=val\ max
+comment4.target=int\ val_meny(int,\ int)
+numComments=5

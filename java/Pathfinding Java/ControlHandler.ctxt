@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ControlHandler
+comment1.params=frame
+comment1.target=ControlHandler(Frame)
+comment10.params=
+comment10.target=void\ nonHoverColour()
+comment11.params=
+comment11.target=void\ addAll()
+comment2.params=e
+comment2.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+comment3.params=t
+comment3.target=javax.swing.JLabel\ getL(java.lang.String)
+comment4.params=t
+comment4.target=javax.swing.JCheckBox\ getC(java.lang.String)
+comment5.params=t
+comment5.target=javax.swing.JSlider\ getS(java.lang.String)
+comment6.params=t
+comment6.target=javax.swing.JButton\ getB(java.lang.String)
+comment7.params=
+comment7.target=void\ noPathTBounds()
+comment8.params=
+comment8.target=void\ position()
+comment9.params=
+comment9.target=void\ hoverColour()
+numComments=12

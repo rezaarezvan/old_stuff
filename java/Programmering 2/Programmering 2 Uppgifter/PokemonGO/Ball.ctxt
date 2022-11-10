@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=name\ visual\ captureRate
+comment1.target=Ball(java.lang.String,\ VisualRepresentation,\ int)
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sortering
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=tal\ l\u00E4gsta\ h\u00F6gsta
+comment2.target=void\ quickSortera(int[],\ int,\ int)
+numComments=3

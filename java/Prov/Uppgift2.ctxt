@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Uppgift2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=tal
+comment2.target=void\ medelv\u00E4rde(int[])
+comment3.params=tal
+comment3.target=void\ medianen(int[])
+numComments=4

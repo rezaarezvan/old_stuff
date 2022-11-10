@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hund
+comment1.params=r\ k\ \u00E5
+comment1.target=Hund(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ skrivUt()
+numComments=3

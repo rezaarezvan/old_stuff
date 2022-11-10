@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Simple_sort
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=tal
+comment2.target=int[]\ tal_metod(int[])
+comment3.params=tal\ TalS\u00F6k
+comment3.target=int\ linj\u00E4r_s\u00F6k(int[],\ int)
+comment4.params=tal\ TalS\u00F6k
+comment4.target=int\ bin\u00E4r_s\u00F6k(int[],\ int)
+comment5.params=tal\ Alternativ
+comment5.target=void\ sortering(int[],\ int)
+numComments=6

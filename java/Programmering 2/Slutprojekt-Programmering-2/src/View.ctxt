@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=View
+comment1.params=
+comment1.target=void\ login()
+comment1.text=\r\n\ Login\ method\ serves\ the\ view\ that\ prompts\ users\ to\ a\ login\ screen.\r\n
+numComments=2

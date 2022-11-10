@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=name\ visual
+comment1.target=Item(java.lang.String,\ VisualRepresentation)
+numComments=2

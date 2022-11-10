@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sortering2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=vektor\ vektor2\ vektor3
+comment2.target=void\ vektorSlump(int[],\ int[],\ int[])
+comment3.params=vektor
+comment3.target=void\ vektorVisning(int[])
+comment4.params=vektor
+comment4.target=double\ bubbelSort(int[])
+comment5.params=data
+comment5.target=double\ simpleSort(int[])
+numComments=6

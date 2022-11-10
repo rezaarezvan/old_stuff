@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PointAndScore
+comment1.params=score\ point
+comment1.target=PointAndScore(int,\ Point)
+numComments=2

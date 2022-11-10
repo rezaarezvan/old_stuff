@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=spelRuta
+comment2.target=void\ ritaSpelRuta(char[][])
+comment3.params=spelRuta\ pos\ anv\u00E4ndare
+comment3.target=void\ l\u00E4ggSymbol(char[][],\ int,\ java.lang.String)
+numComments=4

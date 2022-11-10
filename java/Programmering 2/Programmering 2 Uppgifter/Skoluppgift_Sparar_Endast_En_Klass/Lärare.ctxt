@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=L\u00E4rare
+comment1.params=f\ e\ s
+comment1.target=L\u00E4rare(java.lang.String,\ java.lang.String,\ Skola)
+comment2.params=f\ e
+comment2.target=L\u00E4rare(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ getfNamn()
+comment5.params=
+comment5.target=java.lang.String\ geteNamn()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rektangel
+comment1.params=l\ b
+comment1.target=Rektangel(int,\ int)
+comment2.params=
+comment2.target=void\ visaEgenskaper()
+comment3.params=
+comment3.target=void\ visaArea()
+comment4.params=
+comment4.target=void\ visaOmkrets()
+comment5.params=
+comment5.target=void\ rita()
+numComments=6

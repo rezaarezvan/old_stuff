@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=x\ y\ rX
+comment1.target=Circle(int,\ int,\ int)
+comment2.params=x\ y\ rX\ rY
+comment2.target=Circle(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=double\ area()
+comment4.params=
+comment4.target=double\ omkrets()
+comment5.params=
+comment5.target=double\ getRadie()
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+numComments=7

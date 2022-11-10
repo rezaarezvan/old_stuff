@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PlayerInfo
+comment1.params=name\ team\ level\ xp
+comment1.target=PlayerInfo(java.lang.String,\ java.lang.String,\ int,\ int)
+numComments=2

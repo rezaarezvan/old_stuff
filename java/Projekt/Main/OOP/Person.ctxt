@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=pn
+comment1.target=Person(java.lang.String)
+comment2.params=
+comment2.target=void\ visaKonton()
+comment3.params=
+comment3.target=java.lang.String\ getL\u00F6senord()
+comment4.params=
+comment4.target=java.lang.String\ getNamn()
+comment5.params=
+comment5.target=java.lang.String\ getPersonummer()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Konto
+comment1.params=
+comment1.target=Konto()
+comment2.params=
+comment2.target=void\ saldoBesked()
+comment3.params=
+comment3.target=void\ uttag()
+comment4.params=
+comment4.target=void\ ins\u00E4ttning()
+comment5.params=
+comment5.target=java.lang.String\ getKontonummer()
+numComments=6

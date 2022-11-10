@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HiLo_lulW
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=double\ calculateAverage(java.util.ArrayList)
+comment2.text=\r\n\ Adds\ all\ elements\ in\ array\ and\ divides\ it\ by\ arraylist\ size\r\n
+numComments=3

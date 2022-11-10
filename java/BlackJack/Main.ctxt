@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ Deala()
+comment3.params=
+comment3.target=void\ Hit()
+comment4.params=
+comment4.target=boolean\ Stay()
+comment5.params=
+comment5.target=boolean\ KollarVemSom\u00C4rN\u00E4rmast()
+comment6.params=
+comment6.target=void\ Output()
+comment7.params=
+comment7.target=java.lang.String\ Fr\u00E5gaSpelaren()
+comment8.params=
+comment8.target=boolean\ KollarVinstSpelare()
+comment9.params=
+comment9.target=void\ MainSlinga()
+numComments=10

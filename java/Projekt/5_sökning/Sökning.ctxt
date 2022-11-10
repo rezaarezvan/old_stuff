@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=S\u00F6kning
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=tal
+comment2.target=void\ skrivUt(int[])
+comment3.params=tal
+comment3.target=void\ sekS\u00F6k(int[])
+comment4.params=tal
+comment4.target=void\ binS\u00F6k(int[])
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Client
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ connects\ to\ the\ server\ and\ read/writes\ to\ ObjectInput/OutputStream.\r\n\ @param\ args\ No\ arguments\ are\ used.\r\n
+comment2.params=socket\ oout\ oin\ connected
+comment2.target=void\ connect(java.net.Socket,\ java.io.ObjectOutputStream,\ java.io.ObjectInputStream,\ boolean)
+comment2.text=\r\n\r\n\ @param\ socket\ passing\ variable\ into\ connect.\r\n\ @param\ oout\ passing\ variable\ into\ connect.\r\n\ @param\ oin\ passing\ variable\ into\ connect.\r\n\ @param\ connected\ passing\ variable\ into\ connect.\r\n
+numComments=3

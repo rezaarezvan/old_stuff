@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Model
+comment1.params=wantedSize
+comment1.target=Model(int)
+comment2.params=
+comment2.target=int\ boardSize()
+comment3.params=row\ col
+comment3.target=int\ getNumber(int,\ int)
+comment4.params=row\ col
+comment4.target=void\ choose(int,\ int)
+comment5.params=
+comment5.target=int\ getSum()
+comment6.params=row\ col
+comment6.target=boolean\ isBlocked(int,\ int)
+comment7.params=row\ col
+comment7.target=boolean\ isFree(int,\ int)
+comment8.params=row\ col
+comment8.target=boolean\ isChoosen(int,\ int)
+comment9.params=w
+comment9.target=void\ addObserver(View)
+numComments=10

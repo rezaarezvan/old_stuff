@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PokeType
+comment1.params=nr\ visual\ baseAtk\ baseDef\ baseHp
+comment1.target=PokeType(int,\ VisualRepresentation,\ int,\ int,\ int)
+numComments=2

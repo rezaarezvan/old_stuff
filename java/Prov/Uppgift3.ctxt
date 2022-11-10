@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Uppgift3
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=rad\ kolumn
+comment2.target=void\ print_rektangel(int,\ int)
+numComments=3

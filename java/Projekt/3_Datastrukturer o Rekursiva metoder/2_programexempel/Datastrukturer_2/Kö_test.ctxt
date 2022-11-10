@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=K\u00F6_test
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=personer
+comment2.target=void\ skrivUt(java.util.ArrayDeque)
+comment3.params=personer
+comment3.target=void\ laggTill(java.util.ArrayDeque)
+comment4.params=personer
+comment4.target=void\ exped(java.util.ArrayDeque)
+numComments=5

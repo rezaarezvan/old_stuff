@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Klass
+comment1.params=i\ l\ s
+comment1.target=Klass(java.lang.String,\ L\u00E4rare,\ Skola)
+comment2.params=textFromFile
+comment2.target=Klass(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ toFileString()
+comment5.params=e
+comment5.target=java.lang.String\ print(java.util.ArrayList)
+comment6.params=
+comment6.target=java.lang.String\ getID()
+comment7.params=i
+comment7.target=void\ setID(java.lang.String)
+comment8.params=e
+comment8.target=void\ setElevLista(Elev)
+numComments=9
